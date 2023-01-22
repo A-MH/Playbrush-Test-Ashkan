@@ -10,7 +10,7 @@ public class DentistFinder : MonoBehaviour
     [SerializeField]
     private NearbyDentistsMapManager map;
     private Vector2 homeLatLong;
-    public string apiKey;
+    private string apiKey = "AIzaSyDhHC3VZ9iTNIJ4hPo8h4bSsNxD3eDCTSQ";
 
     void Start()
     {
