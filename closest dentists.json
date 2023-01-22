@@ -1,0 +1,884 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ARywPAIpc3MBkiVvjIOheD8zz2KKibOfvVzLBo_NUBYcrFxABTl-7uAhdwyV5Dh7nL2fycaTJPi1W29J3s27kn-QEZMLA85XzlrC8i3zu3Wj-IWu5XPojdEQ0Fj5SB2IFWBXLvELqNtVRtfAJMAxiPuT8rEGuk2iaHvXMLzmTBIe2hkNvz4BkzcccwHt-8dsjhpASsl74k32i22qz8vdYWI4H9pfpm6kxXSMHrW44b1bb9PEQHnyV3rZ11xejYW5gHDHWFkxPgqZM5UblwfMxVvI4dlyDFvLUzNDbbpswurkviK7EduTGmPp-qBBYitKwkJrlGm6HS2akPGGw6JaAIFSydF5fjnmXJ_wLk_jsWQDOnk9I9nLs_95bX_KZHSIE_WGmwjOfhXMfygGKCPW9QPxbCaG9dZ1WXO3IHvB-RBG2C342hcN7a3XJR-uHw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5939325,
+               "lng" : -0.164102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5953590302915,
+                  "lng" : -0.162793269708498
+               },
+               "southwest" : {
+                  "lat" : 51.5926610697085,
+                  "lng" : -0.165491230291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Crescent Dental Clinic",
+         "place_id" : "ChIJFZ2m9yEadkgR9jHShhcqkeA",
+         "plus_code" : {
+            "compound_code" : "HRVP+H9 London, UK",
+            "global_code" : "9C3XHRVP+H9"
+         },
+         "reference" : "ChIJFZ2m9yEadkgR9jHShhcqkeA",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "vicinity" : "243 Creighton Avenue, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.59069210000001,
+               "lng" : -0.1648446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5920917802915,
+                  "lng" : -0.163388369708498
+               },
+               "southwest" : {
+                  "lat" : 51.5893938197085,
+                  "lng" : -0.166086330291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dental Art Implant Clinic - East Finchley",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105678735297919501608\"\u003eDental Art Implant Clinic - East Finchley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIfSrAnW-3ahj6XZCt0vNzY91l-lN90w0R3J34--7Bf3kapq4kIgH1LIjVVqRaspGEbBDJT-AF3Y7wEbpoDnNmwBopjzvjtBKcj12hOTfSU2sOCP7dkJb4IOIFieFoW96ieoqXtQJmXrkW-bjYfaKxgRpM35-KTpGlqoWn7H3afG11K",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJTQVdgiIadkgRbJrlQDmR3Es",
+         "plus_code" : {
+            "compound_code" : "HRRP+73 London, UK",
+            "global_code" : "9C3XHRRP+73"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJTQVdgiIadkgRbJrlQDmR3Es",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 106,
+         "vicinity" : "91 High Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.59896999999999,
+               "lng" : -0.183366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6003686302915,
+                  "lng" : -0.182089869708498
+               },
+               "southwest" : {
+                  "lat" : 51.5976706697085,
+                  "lng" : -0.184787830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DAZZLE DENTAL CARE",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 537,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109710285628910399923\"\u003eDAZZLE DENTAL CARE\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIB-YOyvFoYMg7QREWHSNXKb78NFMJTPzjGfQNLvxh7VEXpExS8QjEqaoVS4xawNFBrl2Ph4ToXAoHdZmJy61Hl7TCaBpIHXeN27Hrb8Z00noAJ4Bwl5DLPiac5v89nEi9lzOS_1B-4OWrT9-d9ePSbFRX28MIjAkivLnNfEHKA-iVO",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJw71Q_QEadkgRP2xVSGv_AW8",
+         "plus_code" : {
+            "compound_code" : "HRX8+HM London, UK",
+            "global_code" : "9C3XHRX8+HM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw71Q_QEadkgRP2xVSGv_AW8",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "215 Squires Lane, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.58964779999999,
+               "lng" : -0.1661637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5910591802915,
+                  "lng" : -0.164816419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5883612197085,
+                  "lng" : -0.167514380291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Cavendish House Dental Practice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113060785812951687920\"\u003eMuki Haklay\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJJkI9knDlAT5WvNLy9amBKWMLYS0ompwpcU8dGNW5WGA4Yt8kA9S4qIZuwyKEF3VjE8PKzqEoTzB8Ow6OlpJ_XxhlWKQwc6so0VatDQ4Zw-c98ZynQkDrM9VG_4CJ8oAW9mBmSCPFQ7aBJXddo2S_ffH4fZ17ajswD1tESHOTTpGs-",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ1c7CPhgadkgRi0wS-SeL7KQ",
+         "plus_code" : {
+            "compound_code" : "HRQM+VG London, UK",
+            "global_code" : "9C3XHRQM+VG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ1c7CPhgadkgRi0wS-SeL7KQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "240 East End Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5881399,
+               "lng" : -0.1597014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5894461802915,
+                  "lng" : -0.158381469708498
+               },
+               "southwest" : {
+                  "lat" : 51.5867482197085,
+                  "lng" : -0.161079430291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Finchley Dentist",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1221,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108046002589258121682\"\u003eThe Finchley Dentist\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALTdG6jl_NFG6NAiHdfbCBqSV0d4_z0BfSrqKdcm9_BJraicxiuLtdf6KLC-0rZ3WVjqlU-aUwuz_TJk-rgV131A0nkeP2O7GLm6rea5PdVVRfgH76qW8g5MF-yKwUrXFkrNzHRskauTltYDBCyMHjxK0Mti3azDfYJgnzmr9zGBIQu",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJoSdPLt8bdkgRnGgdLG5kFZg",
+         "plus_code" : {
+            "compound_code" : "HRQR+74 London, UK",
+            "global_code" : "9C3XHRQR+74"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJoSdPLt8bdkgRnGgdLG5kFZg",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 40,
+         "vicinity" : "26 Southern Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5881399,
+               "lng" : -0.1597014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5894461802915,
+                  "lng" : -0.158381469708498
+               },
+               "southwest" : {
+                  "lat" : 51.5867482197085,
+                  "lng" : -0.161079430291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ARCENDO",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105482204719238440247\"\u003eAshok Reddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIVwIg-84dzeV-VKLButcOEw_mvwyq-F4mvDq5B5bS808c427mGmiE4V-29kmKbyAsFuh4jXLlqyXKhlKWn4OdRCQICTnCNmydXRaXwXId3YZKRX3n1Qi5EFCxzNRuSuO_BDsfcGDATYqIOKMaPPaytoD9RB9hpAiFAvbiQJ3sF_B4V",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJy4Aj31MbdkgR_PJXKAxIPZk",
+         "plus_code" : {
+            "compound_code" : "HRQR+74 London, UK",
+            "global_code" : "9C3XHRQR+74"
+         },
+         "rating" : 5,
+         "reference" : "ChIJy4Aj31MbdkgR_PJXKAxIPZk",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "26 Southern Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5852526,
+               "lng" : -0.1805443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5867592802915,
+                  "lng" : -0.179104319708498
+               },
+               "southwest" : {
+                  "lat" : 51.5840613197085,
+                  "lng" : -0.181802280291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Prime Dental- Dentist in Finchley",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108400406600441408358\"\u003ePrime Dental- Dentist in Finchley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJS1Mtu9Nl0fEiS5hn6AEGCe9SsIuX7LBjEbSngctv-oXFUkIIJivpt_yp5GKGkgknfoCvAEJaXEIs-lQxZoSAZcqfxH7h734qQMhbrwL32SQxcEw6NJTTEcPsYAQNyQUPCvPpGp0FhiySkDrcGolSjMhZ25XkPFqAZWbEaTu5l5D4Z",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJReeo8A4adkgRP863DQs7OEY",
+         "plus_code" : {
+            "compound_code" : "HRP9+4Q London, UK",
+            "global_code" : "9C3XHRP9+4Q"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJReeo8A4adkgRP863DQs7OEY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "dentist",
+            "beauty_salon",
+            "spa",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 237,
+         "vicinity" : "2 Lyttelton Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.604995,
+               "lng" : -0.188188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.60637653029149,
+                  "lng" : -0.186909869708498
+               },
+               "southwest" : {
+                  "lat" : 51.6036785697085,
+                  "lng" : -0.189607830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Smile Cliniq - Finchley Dentist",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 778,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117795174578500291833\"\u003eSmile Cliniq - Finchley Dentist\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALpMmW14Vuw2VU7ttRhrWxYCTg-Ue0EE0CREVxnLCcprivA2hbJGPClGEBcFncBWuvdNM0UxqdhV_UUq6V5rMsBafxynfvy4Yl5UfDDIFkRVFntdf9EQEqG6vtD_r5J7GHAZL_W7wphcwgMffV2RJ9SJxV3rvldppH2AotTC0W99mZv",
+               "width" : 1167
+            }
+         ],
+         "place_id" : "ChIJId5Q8P0ZdkgRqT88UfLKO-U",
+         "plus_code" : {
+            "compound_code" : "JR36+XP London, UK",
+            "global_code" : "9C3XJR36+XP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJId5Q8P0ZdkgRqT88UfLKO-U",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 210,
+         "vicinity" : "138 Ballards Lane, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6079609,
+               "lng" : -0.183354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6094239302915,
+                  "lng" : -0.181983369708498
+               },
+               "southwest" : {
+                  "lat" : 51.6067259697085,
+                  "lng" : -0.184681330291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sara Saidpour",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ-zvoTDkZdkgRZBOY7LuEY1U",
+         "plus_code" : {
+            "compound_code" : "JR58+5M London, UK",
+            "global_code" : "9C3XJR58+5M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ-zvoTDkZdkgRZBOY7LuEY1U",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "200 Ballards Lane, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6079609,
+               "lng" : -0.183354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6094240302915,
+                  "lng" : -0.181984069708498
+               },
+               "southwest" : {
+                  "lat" : 51.6067260697085,
+                  "lng" : -0.184682030291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "mydentist, Ballard's Lane, Finchley",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102822986079858365813\"\u003emydentist, Ballard&#39;s Lane, Finchley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALsnuJWwDRwHAwgSzdwqgZ6nuXO5fXDCl9Ctp3jTrLg_wTj2trz7j_SUB7NCUwdC2tTmvVmWmbSHBZnFASqiDO4FtjGmqgQHxJ68J0eFfi65euixdMMCsSjcbvO-66ca_XkJCtPM-DWsLXcDw2rwMMpkMk2mH6q3urMoxXYnQhHjkLa",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJrXtyn_wZdkgRlAO-qKbIjQs",
+         "plus_code" : {
+            "compound_code" : "JR58+5M London, UK",
+            "global_code" : "9C3XJR58+5M"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJrXtyn_wZdkgRlAO-qKbIjQs",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "200 Ballards Lane, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6096408,
+               "lng" : -0.1810356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6110558802915,
+                  "lng" : -0.179813469708498
+               },
+               "southwest" : {
+                  "lat" : 51.6083579197085,
+                  "lng" : -0.182511430291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Finchley Dental Lounge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107912100928474189793\"\u003eGeorgi Neychev\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAILf9cqn35Xtgac-_XjgRUgxcUQx8YJmhocFHsp-VFn4jLqRE2WU0EBz4OxazbTqzmFOPQv0I2nDp6ockROIcwwBrBYKrXdkRtc3m9mRHwtjFy9-qR38UuayIUYPc0Yj2I_cCS58sL59Ywb7fXa3ymDwvfFGP5bcnfPE0DEvIr8ZcFd",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ6blGy-QZdkgR8nBWuHW9ZYw",
+         "plus_code" : {
+            "compound_code" : "JR59+VH London, UK",
+            "global_code" : "9C3XJR59+VH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6blGy-QZdkgR8nBWuHW9ZYw",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Dental Surgery, 248 Ballards Lane, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6043317,
+               "lng" : -0.1918558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.60562423029149,
+                  "lng" : -0.190572569708498
+               },
+               "southwest" : {
+                  "lat" : 51.6029262697085,
+                  "lng" : -0.193270530291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Elite Dental Care Finchley",
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118339765345916822127\"\u003eElite Dental Care Finchley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIT81oeDQrx1nJfHZdTO7XtlwN_8ZLLzXya3kVdxzSk1x7VjFatBxZhr2cbRx6H0gOMYOksVhokynWMW733_8M5waDAALFJ1d-TLv1xFcfgAx6y5XIN31172twvNeT8hzwpdvnACbvcV_mkJX843Xm-OpzBVPorgel0NQU6HzXDbTqf",
+               "width" : 1774
+            }
+         ],
+         "place_id" : "ChIJwf5lZP0ZdkgRkr5nTKeqX3A",
+         "plus_code" : {
+            "compound_code" : "JR35+P7 London, UK",
+            "global_code" : "9C3XJR35+P7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJwf5lZP0ZdkgRkr5nTKeqX3A",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "17 The Grove, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.61124049999999,
+               "lng" : -0.1753167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6125923302915,
+                  "lng" : -0.1740910697084979
+               },
+               "southwest" : {
+                  "lat" : 51.6098943697085,
+                  "lng" : -0.1767890302915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Finchley Dental Studio",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103657994856158297977\"\u003eFinchley Dental Studio\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKN3ZgBFAC7Jk3jzsumqmiSxUJ4ZJfjZP3lKkXa4r7j7FhafRwwcxWY-iqt-jhl7DRRnW2yKqjLfq7gaHVLceU-oFxkaURa8LvoKh2IXUsIPjp_gl4a_ed57ewVUTrpriTHglFYt3LbMQfafbhdaNnvAjupzJdyk0xe2fEOgB8xWwQ",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJWalivu8ZdkgR73YQaYF40-w",
+         "plus_code" : {
+            "compound_code" : "JR6F+FV London, UK",
+            "global_code" : "9C3XJR6F+FV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJWalivu8ZdkgR73YQaYF40-w",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 59,
+         "vicinity" : "630 High Road, London"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5992986,
+               "lng" : -0.196334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6006156302915,
+                  "lng" : -0.194908869708498
+               },
+               "southwest" : {
+                  "lat" : 51.5979176697085,
+                  "lng" : -0.197606830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "K Aesthetics - Facial Aesthetics Lip Filler and Anti Wrinkle Injections",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1436,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104335309244484214129\"\u003eKhilan Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAK2sc5xbj5mvcy9091k8aCmot2UUAxclYhsF7Bv2mScr5F-4g99mjoSAIRFx6yiG7aajBr0qYc1HyFkaAIsMA0XzFUxqOphqd4ZHJ9Y4-WMz4WvMWtHSZ7u-GPKZy9viWzMj53o3Ch02KwiC-Iw0kJ-Gj3a4sg7weOV9Cfg5AZY1iUq",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ1yCMEKsXdkgRXDaVPhE8L6U",
+         "plus_code" : {
+            "compound_code" : "HRX3+PF London, UK",
+            "global_code" : "9C3XHRX3+PF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ1yCMEKsXdkgRXDaVPhE8L6U",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "307 Regents Park Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.59724509999999,
+               "lng" : -0.196889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.59858123029149,
+                  "lng" : -0.195495769708498
+               },
+               "southwest" : {
+                  "lat" : 51.59588326970849,
+                  "lng" : -0.198193730291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "mill hill dentist derby",
+         "place_id" : "ChIJv1Cy5awQdkgR36oKki2TtYA",
+         "plus_code" : {
+            "compound_code" : "HRW3+V6 London, UK",
+            "global_code" : "9C3XHRW3+V6"
+         },
+         "reference" : "ChIJv1Cy5awQdkgR36oKki2TtYA",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "vicinity" : "Derby Lodge, East End Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5910652,
+               "lng" : -0.1482059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.59238303029151,
+                  "lng" : -0.146901769708498
+               },
+               "southwest" : {
+                  "lat" : 51.58968506970851,
+                  "lng" : -0.149599730291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dental Care Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJwc5AYi4adkgR6qp-Fn1ct1Y",
+         "plus_code" : {
+            "compound_code" : "HVR2+CP London, UK",
+            "global_code" : "9C3XHVR2+CP"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJwc5AYi4adkgR6qp-Fn1ct1Y",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "200 Fortis Green Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5911151,
+               "lng" : -0.1481493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5924076302915,
+                  "lng" : -0.146872769708498
+               },
+               "southwest" : {
+                  "lat" : 51.5897096697085,
+                  "lng" : -0.149570730291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Smile Studios : Muswell Hill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 552,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112368166065139322625\"\u003eThe Smile Studios : Muswell Hill\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJNNNGInfSpEFqmfvAkZauYjqaqxllBuqv1lEmWOLNJTAmiGpLCRI1CfHuf35sA2xeeu0K7jn7m2KcESeEexPO7crj8jp7d2BKSFOmhREHt9QiQ4Mi-2tayaN_VrVKIoYbpvvG_Ti7_YpmWQgWIAWZcgInVnYTZm8lcal-VxaQJOjXm",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJ74CBm-MbdkgRyU9PWycQ868",
+         "plus_code" : {
+            "compound_code" : "HVR2+CP London, UK",
+            "global_code" : "9C3XHVR2+CP"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ74CBm-MbdkgRyU9PWycQ868",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "store", "health", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "200 Fortis Green Road, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5926694,
+               "lng" : -0.1471437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5939988302915,
+                  "lng" : -0.145876869708498
+               },
+               "southwest" : {
+                  "lat" : 51.5913008697085,
+                  "lng" : -0.148574830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kings Avenue Dental Surgery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103419765716576164680\"\u003eGriff Hayward\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKdHhqvHPp8Yht0DF9ysDUAbHHa61-z0f8AN4Rrrz0Ssnffeuo7q06NkndlC6lIL0qd6hQPwL9F72TXuw0pKbIts9r4VwXFz5WLaG-KZ8jP06JI2iteCSnaQIRwnqI2gMT7idED2-EkExinQZfhetXK4Ispp74opYprGD_QLr3k-K-A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWwRnry4adkgRiPwdQcXe_BQ",
+         "plus_code" : {
+            "compound_code" : "HVV3+34 London, UK",
+            "global_code" : "9C3XHVV3+34"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWwRnry4adkgRiPwdQcXe_BQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 137,
+         "vicinity" : "41 Kings Avenue, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5988234,
+               "lng" : -0.1464163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6001425802915,
+                  "lng" : -0.145158369708498
+               },
+               "southwest" : {
+                  "lat" : 51.5974446197085,
+                  "lng" : -0.1478563302915021
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Colney Hatch Dental Practice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 801,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116624530355147484858\"\u003e49 Hokkai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAITN-qCkgvy1Kfepy9b71hKOYnqx8Rr1kjDW3Xq0iB_Suj0GgvgpoTS_8AGFeoXiLqeTyMlPRQX7jJdpDn9rZeei1hYRPDO3IR923rNOSKpkuff-5qt02RfZTfCro4PAAEyyeD_4nj6wj8TIrGZldzj5lSebt7Lh5LPMqfFQAgnOGhv",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJrxLICCoadkgRTPKJhpFCntc",
+         "plus_code" : {
+            "compound_code" : "HVX3+GC London, UK",
+            "global_code" : "9C3XHVX3+GC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJrxLICCoadkgRTPKJhpFCntc",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "130 Colney Hatch Lane, London"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.61248990000001,
+               "lng" : -0.1746974
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6137779802915,
+                  "lng" : -0.173365169708498
+               },
+               "southwest" : {
+                  "lat" : 51.6110800197085,
+                  "lng" : -0.176063130291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dental Surgery",
+         "place_id" : "ChIJ_9KoCO8ZdkgRwyinotZxo-c",
+         "plus_code" : {
+            "compound_code" : "JR6G+X4 London, UK",
+            "global_code" : "9C3XJR6G+X4"
+         },
+         "reference" : "ChIJ_9KoCO8ZdkgRwyinotZxo-c",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "point_of_interest", "health", "establishment" ],
+         "vicinity" : "United Kingdom"
+      }
+   ],
+   "status" : "OK"
+}
