@@ -3,6 +3,9 @@ using UnityEngine.Networking;
 using System.Collections;
 using System.IO;
 
+/// <summary>
+/// responsible for finding latitude and longitude of the closest dentist to the user
+/// </summary>
 public class DentistFinder : MonoBehaviour
 {
     [SerializeField]
@@ -31,6 +34,7 @@ public class DentistFinder : MonoBehaviour
         // Request and wait for the desired page.
         yield return webRequest.SendWebRequest();
         //yield return map.ShowMap(homeLatLong, apiKey);
+        // deserialize the received JSON
         var nearbyDentists = JsonUtility.FromJson<NearbyDentists>(webRequest.downloadHandler.text);
         yield return map.ShowMap(apiKey, homeLatLong, nearbyDentists);
         ddpm.PopulateDentistDetailsPanel(nearbyDentists);

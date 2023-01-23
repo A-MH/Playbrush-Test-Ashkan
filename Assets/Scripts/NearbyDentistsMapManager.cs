@@ -5,6 +5,9 @@ using UnityEngine.UI;
 using System;
 using UnityEngine.Networking;
 
+/// <summary>
+/// Manages the map for showing nearest dentists
+/// </summary>
 public class NearbyDentistsMapManager : MonoBehaviour
 {
     public Vector2 latLong;
@@ -13,6 +16,7 @@ public class NearbyDentistsMapManager : MonoBehaviour
     {
         // alphabet string is used for giving each nearby dentist a letter on the map
         string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        // point of interest locations
         string poiLocations = "";
         for (int i = 0; i < nearbyDentists.results.Count; i++)
         {
@@ -22,7 +26,7 @@ public class NearbyDentistsMapManager : MonoBehaviour
             if (i < nearbyDentists.results.Count - 1)
                 poiLocations += "&";
 
-            nearbyDentists.results[i].mapID = (char) alphabet[i];
+            nearbyDentists.results[i].mapID = (char)alphabet[i];
         }
         string url = $"https://maps.googleapis.com/maps/api/staticmap?key={apiKey}&center={homeLatLong[0]},{homeLatLong[1]}&{poiLocations}&size=400x400";
         using UnityWebRequest webRequest = UnityWebRequestTexture.GetTexture(url);

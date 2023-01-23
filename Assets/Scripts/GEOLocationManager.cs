@@ -2,19 +2,22 @@
 using System.Collections;
 using TMPro;
 
+/// <summary>
+/// This class is responsible for getting user's latitude and longitude
+/// </summary>
 public class GEOLocationManager : MonoBehaviour
 {
     public static Vector2? homeLatLong;
     IEnumerator Start()
     {
-        // Starts the location service.
+        // Start the location service.
         while (Input.location.status != LocationServiceStatus.Running)
         {
             Input.location.Start();
             yield return new WaitForEndOfFrame();
         }
 
-        // Waits until the location service initializes
+        // Wait until the location service initializes
         int maxWait = 10;
         while (Input.location.status == LocationServiceStatus.Initializing && maxWait > 0)
         {
@@ -22,7 +25,7 @@ public class GEOLocationManager : MonoBehaviour
             maxWait--;
         }
 
-        // If the service didn't initialize in 20 seconds this cancels location service use.
+        // If the service didn't initialize in 10 seconds this cancels location service use.
         if (maxWait < 1)
         {
             print("Timed out");

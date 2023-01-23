@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
+/// <summary>
+/// Manages the main UI
+/// </summary>
 public class MainUIManager : MonoBehaviour
 {
     [SerializeField]

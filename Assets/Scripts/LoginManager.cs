@@ -4,6 +4,9 @@ using System.IO;
 using UnityEngine;
 using UnityEngine.Networking;
 
+/// <summary>
+/// user login manager
+/// </summary>
 public class LoginManager : MonoBehaviour
 {
     [SerializeField]
@@ -39,7 +42,7 @@ public class LoginManager : MonoBehaviour
             UserInfo userinfo = JsonUtility.FromJson<UserInfo>(www.downloadHandler.text);
             mainUiManager.gameObject.SetActive(true);
             mainUiManager.PopulateUserInfoPanel(userinfo);
-            File.WriteAllText("web result.json", www.downloadHandler.text);
+            File.WriteAllText("user info.json", www.downloadHandler.text);
             loginPanelManager.gameObject.SetActive(false);
         }
     }
